@@ -18,7 +18,7 @@
 2. Select the model collection and an optional pivot. Without a pivot, the add-on uses the center at the model's base.
 3. Choose three animation frames. Static models may use the same frame three times.
 4. Set the row order and **Model Front**. `-Y` is common for imported models; use **Direction Correction** if necessary.
-5. Choose **Tibia / lattice from file** for the TibiaDevs-style projection.
+5. Choose **Tibia / lattice from file** for the obligue projection.
 6. Set the cell size and padding. A 64×64 cell produces a 192×256 spritesheet.
 7. Select an output mode and PNG path. Enable **Overwrite Existing File** only when existing results may be replaced.
 8. Click **Generate 3×4 Spritesheet** or **Generate Package**.
