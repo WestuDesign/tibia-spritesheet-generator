@@ -24,3 +24,6 @@
 8. Click **Generate 3×4 Spritesheet** or **Generate Package**.
 
 Columns contain the three selected frames. The default row order is South, East, North and West. Shared framing keeps the model stable across all twelve cells.
+
+
+![Tibia Spritesheet Generator](obraz.png)
